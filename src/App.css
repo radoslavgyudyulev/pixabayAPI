@@ -1,0 +1,6 @@
+.img-wrapper {
+    opacity: 0.9;
+}
+.img-wrapper:hover {
+    opacity: 1
+}
